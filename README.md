@@ -7,4 +7,13 @@ $ pip install tk
 $ conda install tk
 ```
 
+## Run the script
+```Python
+$ pyhton GUI.py
+```
+
 ## Preview
+![image](https://github.com/Yuwen-Fang/tkinter-graphic-interface/blob/main/GUI_output.jpg?raw=true)
+
+----
+Have a good day. :bug:
